@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Telegraph and Argus",
+      "title": "Nicholas Bannister cleared of causing Judith Wadsworth's death | Bradford Telegraph and Argus - Telegraph and Argus",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnRoZXRlbGVncmFwaGFuZGFyZ3VzLmNvLnVrL25ld3MvMjM4MDA0MTkubmljaG9sYXMtYmFubmlzdGVyLWNsZWFyZWQtY2F1c2luZy1qdWRpdGgtd2Fkc3dvcnRocy1kZWF0aC_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-20T09:22:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "Myles McCormick, Demetri Sevastopulo, Jaren Kerr",
+      "title": "Justin Trudeau denies trying to provoke India with claims over Sikh leader's death - Financial Times",
+      "description": "Response from Canada’s allies to prime minister’s accusation has been muted",
+      "url": "https://www.ft.com/content/63194638-c422-490a-9fce-9d3a69148b52",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Feaf79562-6f31-4f61-8f76-beaa4b103ffb.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2023-09-19T23:31:36Z",
+      "content": "Canadas prime minister Justin Trudeau denied trying to provoke Narendra Modis government with claims that Indian agents may be linked to the killing of a Sikh leader, as he urged New Delhi to take se… [+3819 chars]"
+    }
+  ]
+}
