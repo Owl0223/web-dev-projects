@@ -1,0 +1,13 @@
+.blogList{
+    display: flex;
+    margin: 1rem 7rem;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#blogHead{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+    font-family: cursive;
+}

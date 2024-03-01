@@ -1,0 +1,44 @@
+.blogSpace {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 50%;
+  margin: auto;
+}
+
+.blogContent h2 {
+  font-family: "Playball", cursive;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.blogTitle {
+  font-family: "Playball", cursive;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.blogPara {
+  margin: 1rem 0;
+  font-family: "Imprima", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.blogMeta {
+  display: flex;
+  justify-content: space-between;
+}
+
+.blogMeta p {
+  font-family: "Imprima", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.blogMeta h3 {
+  font-weight: 500;
+  font-family: "Playball", cursive;
+  font-weight: 500;
+  font-style: normal;
+}

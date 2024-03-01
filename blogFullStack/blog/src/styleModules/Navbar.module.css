@@ -1,0 +1,44 @@
+.navbar * {
+  color: aliceblue;
+}
+.navbar {
+  background-color: rgb(47, 46, 46);
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0;
+  margin-bottom: 3rem;
+}
+
+.navbar li {
+  list-style: none;
+}
+.navbar a {
+  text-decoration: none;
+  font-size: 13px;
+}
+
+/* navlinks */
+#navLinks {
+  display: flex;
+  /* justify-content: space-around; */
+  justify-content: center;
+  width: 90%;
+  margin: auto;
+}
+
+.navlink {
+  margin: 1rem;
+  padding: 1rem;
+}
+
+/* nav logos */
+#navLogos {
+  display: flex;
+  justify-content: space-around;
+  width: 10%;
+  margin: auto;
+}
+
+#navLogos img {
+  filter: invert();
+}

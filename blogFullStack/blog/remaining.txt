@@ -1,0 +1,11 @@
+FRONTEND --------------
+1. home page setup
+2. blog list
+3. about page setup
+4. newsletter sign up form
+5. blog create page
+
+BACKEND ---------------
+1. api setup    DONE
+2. sign up form 
+3. mongodb integration       DONE

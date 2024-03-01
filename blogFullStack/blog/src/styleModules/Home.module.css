@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Imprima&family=Playball&display=swap");
+
+.homeContent {
+  width: 60%;
+  margin: auto;
+}
+
+.homeContent h1 {
+  font-family: "Playball", cursive;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 3rem;
+  margin: 1rem 0;
+}
+
+.homeContent p {
+  margin: 1rem 0;
+  font-size: 1.7rem;
+  font-family: "Imprima", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.homeImg{
+    width: 90%;
+    /* margin: auto; */
+    box-shadow: 9px 13px 20px 9px grey;
+    background-color: grey;
+}
+.homeImg img{
+    width: 100%;
+    object-fit: cover;
+}
+
+em{
+    font-weight: 450;
+    font-style: italic;
+}
